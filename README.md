@@ -22,3 +22,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+تولتیپ با hover نیست بلکه با کلیک فعال میشه
